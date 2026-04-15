@@ -54,8 +54,4 @@ Just download the files and open `index.html` in your browser.
 * Add more sections and better content
 * Improve performance and accessibility
 
----
 
-##  Author
-
-* Tushar sharma
