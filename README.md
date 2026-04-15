@@ -4,7 +4,6 @@ This is a frontend project where I built an interactive golf-themed website to p
 
 The main goal of this project was to improve my skills in JavaScript animations and create a smooth user experience using GSAP.
 
----
 
 ##  What I built
 
@@ -15,7 +14,6 @@ The main goal of this project was to improve my skills in JavaScript animations 
 * Continuous scrolling text section
 * Clean and modern layout design
 
----
 
 ##  Tech Used
 
@@ -24,7 +22,6 @@ The main goal of this project was to improve my skills in JavaScript animations 
 * JavaScript
 * GSAP (for animations)
 
----
 
 ##  What I learned
 
@@ -33,20 +30,17 @@ The main goal of this project was to improve my skills in JavaScript animations 
 * Creating interactive UI elements
 * Improving website design and layout
 
----
 
 ##  Limitations
 
 * Not fully responsive yet (works best on desktop)
 * No backend functionality
 
----
 
 ##  How to run
 
 Just download the files and open `index.html` in your browser.
 
----
 
 ##  Future Improvements
 
